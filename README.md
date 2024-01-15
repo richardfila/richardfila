@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardfila
 - 👀 I’m interested in PHP back end development though have strong experience with full stack
-- 🌱 I’m currently learning more about Laravel
+- 🌱 I’m concentrating on developing in the Laravel stack
 - 💞️ I’m looking to collaborate on community projects particularly in the Christian space
 - 📫 Reach me on email at hello@richardfila.com
  
